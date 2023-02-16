@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I am Alwin Abraham</h1>
 
-
 <!--
 **alwinabraham/AlwinAbraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Self Taught MERN Stack Developer
+<h2 align="center">Self Taught MERN Stack Developer</h1>
 - 🌱 I’m currently learning on Node.js React.js Express.js and MongoDB
 - 📫 Reach me at: alwinabraham098@gmail.com
 

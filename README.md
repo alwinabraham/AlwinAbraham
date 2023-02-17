@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Self Taught MERN Stack Developer</h1>
+<p align="center">Self Taught MERN Stack Developer</p>
 - 🌱 I’m currently learning on Node.js React.js Express.js and MongoDB
 - <br>
 - 📫 Reach me at: alwinabraham098@gmail.com

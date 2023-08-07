@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <p align="center">Self Taught MERN Stack Developer</p>
-A self taught MERN Stack Developer who is passionate in developing web applications with top notch technologies. Currently attending a self-learning program to learn more about Node React Express MongoDB and build major projects with a bunch of new features on a self-research basis.
+JavaScript Babee
 - 🌏 Based on Kerala/India
-- 🌱 I’m currently learning on Node.js React.js Express.js and MongoDB
+- 🌱 Node.js React.js Express.js and MongoDB
 - 📫 Reach me at: alwinabraham098@gmail.com
 - 🤝 I'm open to collaborating on Web Applications development
 
